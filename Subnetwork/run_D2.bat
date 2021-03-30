@@ -1,0 +1,1 @@
+start "D2" .\Subnetwork\bin\debug\Subnetwork.exe "domena2_config.xml"
