@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<MCPORT>1234</MCPORT>
+	<NCCPORT>1000</NCCPORT>
+	<CCPORT>1111</CCPORT>
+</configuration>

@@ -1,0 +1,9 @@
+<configuration>
+<LPORT>2222</LPORT>
+<SPORT>2000</SPORT>
+<NDPORT>1111</NDPORT>
+<MCPORT>2234</MCPORT>
+<CCPORT>9001</CCPORT>
+<external>172.16.1.7:4000</external>
+<external2>192.168.2.6:4000</external2>
+</configuration>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<NAME>Tomek</NAME>
+	<PORT>2077</PORT>
+	<CPPORT>2000</CPPORT>
+	<CCPORT>9001</CCPORT>
+</configuration>
+

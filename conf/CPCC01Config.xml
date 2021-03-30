@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<NAME>Natalka</NAME>
+	<PORT>860</PORT>
+	<CPPORT>1000</CPPORT>
+	<CCPORT>9001</CCPORT>
+
+</configuration>
+
