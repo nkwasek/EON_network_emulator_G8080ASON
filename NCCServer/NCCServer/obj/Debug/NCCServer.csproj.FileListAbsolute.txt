@@ -1,0 +1,7 @@
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\bin\Debug\NCCServer.exe.config
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\bin\Debug\NCCServer.exe
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\bin\Debug\NCCServer.pdb
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\obj\Debug\NCCServer.csprojAssemblyReference.cache
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\obj\Debug\NCCServer.csproj.CoreCompileInputs.cache
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\obj\Debug\NCCServer.exe
+D:\Dokumenty\STUDIA\Semestr5\TSST\Projekt2\NCCServer\NCCServer\obj\Debug\NCCServer.pdb

@@ -1,0 +1,1 @@
+Authors: Czaplicki Tomasz, Kurowski Piotr, Kwasek Natalia
